@@ -6,8 +6,6 @@
 Workflow Management Using Snakemake
 ===================================
 
-|snakemake_banner|_
-
 In this webinar you'll learn about `snakemake <https://snakemake.readthedocs.io/en/stable/>`_, a workflow management system consisting of a text-based workflow specification language and a scalable execution environment. A workflow management system (WMS) is a piece of software that sets up, performs and monitors a defined sequence of computational tasks (i.e. "a workflow"). Snakemake is a WMS that was developed in the bioinformatics community, and as such it has some features that make it particularly well suited for creating reproducible and scalable data analyses. 
 
 Topics covered:
@@ -83,8 +81,6 @@ Platform(s)
 1. Login to the |discovery_enviornment|.
 
 2. CLick on "Apps" tab in the Discovery Enviornment and search for "snakemake".
-  
-  |smake_app|_
   
 3. Under “Analysis Name” leave the defaults or make any desired notes.
 
@@ -174,20 +170,10 @@ Additional information, help
 |Home_Icon|_
 `Learning Center Home`_
 
-.. |snakemake_banner| image:: ../img/snakemake_banner_logo.png
-  :width: 700
 
 .. |smake-vice| image:: https://de.cyverse.org/Powered-By-CyVerse-blue.svg
 .. _smake-vice: https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=7a62a49e-7fee-4822-b128-a1b2485e2941&app-id=9e989f50-6109-11ea-ab9d-008cfa5ae621
 
-.. |smake_app| image:: ./img/smake_app.png
-    :width: 450
-    :height: 200
-.. _RMTA_quick_launch_1: http://learning.cyverse.org/
-.. |RMTA_quick_launch_3| image:: ./img/RMTA_quick_launch_3.png
-    :width: 450
-    :height: 200
-.. _RMTA_quick_launch_3: http://learning.cyverse.org/
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
