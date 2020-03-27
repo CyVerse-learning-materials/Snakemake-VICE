@@ -19,7 +19,7 @@ Topics covered:
   
   Special Thanks to instructors at `NBIS <https://nbis.se/>`_ (ELIXIR-SE) for the tutorial used here. This tutorial is one of 6-part course on **Tools for reproducible research**. Read more `here <https://www.scilifelab.se/events/tools-for-reproducible-research-4/>`_
 
-- See Snakemake Slides `here <https://slides.com/johanneskoester/snakemake-tutorial#/>`_ and `pdf <https://github.com/CyVerse-learning-materials/Snakemake-VICE/snakemake.pdf>`_.
+- See Snakemake Slides `here <https://slides.com/johanneskoester/snakemake-tutorial#/>`_ and `pdf <https://github.com/CyVerse-learning-materials/Snakemake-VICE/blob/master/snakemake.pdf>`_.
 ----
 
 Prerequisites
