@@ -6,14 +6,14 @@
 Workflow Management Using Snakemake
 ===================================
 
-|snakemake_banner|
+|snakemake_banner|_
 
 In this webinar you'll learn about `snakemake <https://snakemake.readthedocs.io/en/stable/>`_, a workflow management system consisting of a text-based workflow specification language and a scalable execution environment. A workflow management system (WMS) is a piece of software that sets up, performs and monitors a defined sequence of computational tasks (i.e. "a workflow"). Snakemake is a WMS that was developed in the bioinformatics community, and as such it has some features that make it particularly well suited for creating reproducible and scalable data analyses. 
 
-Topics:
-+ Snakemake syntax and basics
-+ Visualization and workflow management
-+ Example RNAseq workflow of MRSA
+Topics covered:
+- Snakemake syntax and basics
+- Visualization and workflow management
+- Example RNAseq workflow of MRSA
 
 
 .. Note:: 
