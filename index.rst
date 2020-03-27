@@ -42,7 +42,7 @@ Downloads, access, and services
 	      - `Register <https://user.cyverse.org/>`_
       * - familiarity with the terminal
         - `UNIX intro <https://astrobiomike.github.io/unix/>`_
-        -  
+        -  Python and R knowledge would be beneficial
 
 ----
 
@@ -83,6 +83,8 @@ Platform(s)
 
 2. CLick on "Apps" tab in the Discovery Enviornment and search for "snakemake".
 
+  |smake_app|_
+
 3. Under “Analysis Name” leave the defaults or make any desired notes.
 
    .. Note::
@@ -119,6 +121,11 @@ navigate to that analysis folder in your data store.
   
   ls
   
+- Generate rulegraph  
+.. code::  
+  
+  snakemake --rulegraph | dot -Tpng > rulegraph_mrsa.png
+
 - Dry-Run RNAseq Snakefile   
 .. code::  
   
@@ -171,7 +178,7 @@ Additional information, help
 .. |smake-vice| image:: https://de.cyverse.org/Powered-By-CyVerse-blue.svg
 .. _smake-vice: https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=7a62a49e-7fee-4822-b128-a1b2485e2941&app-id=9e989f50-6109-11ea-ab9d-008cfa5ae621
 
-.. |smake_quick_launch_1| image:: ./img/smake_app.png
+.. |smake_app| image:: ./img/smake_app.png
     :width: 450
     :height: 200
 .. _RMTA_quick_launch_1: http://learning.cyverse.org/
