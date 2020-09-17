@@ -12,8 +12,8 @@ from misc.cyverse_sphinx_conf import *  # noqa
 project = 'Workflow Management using Snakemake in VICE'
 copyright = '2020, CyVerse'
 author = 'CyVerse'
-version = '1.0'
-release = '1.0'
+version = '2.0'
+version = '2.0'
 
 epub_title = project
 epub_author = author
