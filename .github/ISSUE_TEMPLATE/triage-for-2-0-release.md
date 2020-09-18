@@ -20,7 +20,8 @@ items.
 - [ ] `misc/static/question-answer.js` is version 2.0
 - [ ] `misc/static/jquery.tablesorter.min.js` is version 2.0
 - [ ] `misc/cyverse_spinx_conf.py` is version 2.0
-- [ ] `conf.py` is version 2.0
+- [ ] `conf.py` is version 2.0 and you have updated the name of the documentation (check the project =' line, your `index.rst` should have
+the appropriate name)
 - [ ] `cyverse_rst_defined_substitutions.txt` is version 2.0
 - [ ] `License.md` is version 2.0
 
@@ -83,6 +84,9 @@ items.
             .. |Link Title| raw:: html
 
            <a href="https://LINK.URL" target="blank">Link Title</a>
+
+        ````
+- [ ] Check the |Github Repo Link| on each .rst page and ensure it links to the correct GitHub repository for this documentation.       
 
 
 ### 3. Overall quality  
