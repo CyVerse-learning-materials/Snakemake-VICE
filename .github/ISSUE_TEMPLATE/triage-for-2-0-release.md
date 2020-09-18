@@ -18,7 +18,7 @@ items.
 - [ ] `misc/static/detail-expand.js` is version 2.0
 - [ ] `misc/static/intercom-script-for-learning.js` is version 2.0
 - [ ] `misc/static/question-answer.js` is version 2.0
-- [ ] `misc/static/jquery.min.js` is version 2.0
+- [ ] `misc/static/jquery.tablesorter.min.js` is version 2.0
 - [ ] `misc/cyverse_spinx_conf.py` is version 2.0
 - [ ]  `conf.py` is version 2.0
 - [ ]  `cyverse_rst_defined_substitutions.txt` is version 2.0
@@ -37,7 +37,7 @@ items.
     `Learning Center Home <http://learning.cyverse.org/>`_
     ````
 - [ ] Documentation contains maintainer info on `index.rst` or the appropriate
-  first page. This should be placed directly before the table of contents. 
+  first page. This should be placed directly before the table of contents.
 
     ````
     Manual Maintainer(s)
